@@ -1,0 +1,2 @@
+$ node 01_myScript/get_implement_addr.js 
+0x8A7CE7816B82E6675534693EF170bd60E9C70EBf
